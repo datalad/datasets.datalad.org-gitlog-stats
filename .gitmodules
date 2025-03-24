@@ -1,3 +1,3 @@
 [submodule "code/git-annex-log-stats"]
 	path = code/git-annex-log-stats
-	url = ./code/git-annex-log-stats
+	url = https://github.com/con/git-annex-log-stats
