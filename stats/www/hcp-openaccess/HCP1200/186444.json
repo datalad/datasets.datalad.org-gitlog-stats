@@ -1,0 +1,38 @@
+{
+    "2b400fee32a437d54b3131b69268caa7d1751b6f": {
+        "timestamp": "2020-01-10T01:17:12",
+        "git_size": 576,
+        "annex_size": 2257435,
+        "total_size": 2258011
+    },
+    "a23d0f71c6b438e049e24e6b956ab9648a52610d": {
+        "timestamp": "2020-01-07T04:17:59",
+        "git_size": 576,
+        "annex_size": 2257435,
+        "total_size": 2258011
+    },
+    "534eda5d3e054ce1c8121b280efed5460070f04b": {
+        "timestamp": "2019-12-25T20:07:01",
+        "git_size": 576,
+        "annex_size": 0,
+        "total_size": 576
+    },
+    "16d01090554c228fcb768fd17e50500497d9a85e": {
+        "timestamp": "2019-12-25T20:06:40",
+        "git_size": 458,
+        "annex_size": 0,
+        "total_size": 458
+    },
+    "17c061d1344d7b45f15283c85536a47e3c5b91f9": {
+        "timestamp": "2019-12-25T20:06:36",
+        "git_size": 364,
+        "annex_size": 0,
+        "total_size": 364
+    },
+    "b0cd234669dbe63f0ee1732cd8ab7e4b5f4b0f15": {
+        "timestamp": "2019-12-25T20:06:10",
+        "git_size": 243,
+        "annex_size": 0,
+        "total_size": 243
+    }
+}

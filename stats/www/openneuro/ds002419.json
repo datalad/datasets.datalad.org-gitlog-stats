@@ -1,0 +1,476 @@
+{
+    "4479f557158cf1fdc21c2cae5c753220abf8c2c3": {
+        "timestamp": "2020-01-27T05:08:44",
+        "git_size": 318654,
+        "annex_size": 97599217810,
+        "total_size": 97599536464
+    },
+    "c5f62d24520b30e7fbe556cc9223f5aafc4437b0": {
+        "timestamp": "2020-01-27T05:08:12",
+        "git_size": 318608,
+        "annex_size": 97599217810,
+        "total_size": 97599536418
+    },
+    "68e6e525bbd5e1e9b03a8a56c625f39d80ba5d4c": {
+        "timestamp": "2020-01-26T18:19:10",
+        "git_size": 318608,
+        "annex_size": 97599217810,
+        "total_size": 97599536418
+    },
+    "5367be18bd4e10ee209f37cad7be6eba2bf186b2": {
+        "timestamp": "2020-01-26T17:59:50",
+        "git_size": 318608,
+        "annex_size": 97055889008,
+        "total_size": 97056207616
+    },
+    "fcdbfb925fbb1ddad5a50ff16a62153236333020": {
+        "timestamp": "2020-01-26T12:15:29",
+        "git_size": 318608,
+        "annex_size": 97564601637,
+        "total_size": 97564920245
+    },
+    "c379d9e101b478b4fd4486dbc43801f52295409b": {
+        "timestamp": "2020-01-26T11:26:48",
+        "git_size": 318608,
+        "annex_size": 97055889008,
+        "total_size": 97056207616
+    },
+    "28e6bdf8a274af2c1c4e1fd4c9e6a5e2f03da734": {
+        "timestamp": "2020-01-26T10:51:18",
+        "git_size": 318608,
+        "annex_size": 96542871755,
+        "total_size": 96543190363
+    },
+    "cf4eda849d1bd7a0e8be50ac129b8e27d3889ced": {
+        "timestamp": "2020-01-26T10:30:28",
+        "git_size": 318608,
+        "annex_size": 97055889008,
+        "total_size": 97056207616
+    },
+    "66d8aa1a29e19d65f38638279e9d32925f0f5588": {
+        "timestamp": "2020-01-26T04:23:48",
+        "git_size": 318680,
+        "annex_size": 97375155824,
+        "total_size": 97375474504
+    },
+    "e3254ab1476d9bafc97b19ec828f6f56a9d2e1e3": {
+        "timestamp": "2020-01-26T04:23:31",
+        "git_size": 318608,
+        "annex_size": 97386178160,
+        "total_size": 97386496768
+    },
+    "4995ce67cd4da5ec309fbe849e242fe7643b09ac": {
+        "timestamp": "2020-01-26T04:22:27",
+        "git_size": 318556,
+        "annex_size": 97386178160,
+        "total_size": 97386496716
+    },
+    "7a2e1f9dc83ec38c861034b49878589d04c0ee92": {
+        "timestamp": "2020-01-24T06:35:16",
+        "git_size": 318556,
+        "annex_size": 97386178160,
+        "total_size": 97386496716
+    },
+    "a50809f3e1f19664efddc682292e815d7a350b19": {
+        "timestamp": "2020-01-22T07:47:37",
+        "git_size": 318556,
+        "annex_size": 97321951435,
+        "total_size": 97322269991
+    },
+    "c1d05e03686b55b0fed2fab9219add82e1011315": {
+        "timestamp": "2020-01-22T07:47:14",
+        "git_size": 318513,
+        "annex_size": 97321951435,
+        "total_size": 97322269948
+    },
+    "968c1e7a5ac7ed66620bc3e1e823c2c027e9d6a6": {
+        "timestamp": "2020-01-22T07:15:24",
+        "git_size": 318513,
+        "annex_size": 97321951435,
+        "total_size": 97322269948
+    },
+    "bb0b4e15c23043343fc8dadd911138f03cbde94d": {
+        "timestamp": "2020-01-22T06:56:27",
+        "git_size": 318513,
+        "annex_size": 96770931174,
+        "total_size": 96771249687
+    },
+    "0acbf56ad751bf8eaa5df8a7490c8259de04c54e": {
+        "timestamp": "2020-01-22T06:46:49",
+        "git_size": 316561,
+        "annex_size": 96769764286,
+        "total_size": 96770080847
+    },
+    "21ceaa9f25d5994b0eefe213312beecc2a99526a": {
+        "timestamp": "2020-01-22T06:44:26",
+        "git_size": 316561,
+        "annex_size": 96758992600,
+        "total_size": 96759309161
+    },
+    "536e53a502fafc4220773815e5c7876940e44891": {
+        "timestamp": "2020-01-22T06:42:39",
+        "git_size": 316561,
+        "annex_size": 96769764286,
+        "total_size": 96770080847
+    },
+    "9a6124b07897131d5a11ba63826af0381d443897": {
+        "timestamp": "2020-01-22T06:23:44",
+        "git_size": 316561,
+        "annex_size": 96758992600,
+        "total_size": 96759309161
+    },
+    "f03a31d50dc3869aac6edb882e42bae3a9e3c6dd": {
+        "timestamp": "2020-01-22T05:44:14",
+        "git_size": 313669,
+        "annex_size": 95642566375,
+        "total_size": 95642880044
+    },
+    "2c00ee0e88d9a1a8a666c3b609af8e53ffc05ca4": {
+        "timestamp": "2020-01-22T05:07:55",
+        "git_size": 312689,
+        "annex_size": 94535166170,
+        "total_size": 94535478859
+    },
+    "9a6d9b3456c626b3152efa2157151a2e9cad7a3f": {
+        "timestamp": "2020-01-22T05:05:19",
+        "git_size": 312689,
+        "annex_size": 94534494676,
+        "total_size": 94534807365
+    },
+    "9466fe7f367aec26ab9948ed38d99f96abe2e055": {
+        "timestamp": "2020-01-22T04:44:08",
+        "git_size": 311713,
+        "annex_size": 94534494676,
+        "total_size": 94534806389
+    },
+    "57942b61498de8a33577f5caeb1cbf69a7dd5322": {
+        "timestamp": "2020-01-22T04:44:01",
+        "git_size": 311713,
+        "annex_size": 94534976630,
+        "total_size": 94535288343
+    },
+    "502ec8ecd49e803f16501817f685320b40fb60a7": {
+        "timestamp": "2020-01-22T04:29:31",
+        "git_size": 312673,
+        "annex_size": 94534976630,
+        "total_size": 94535289303
+    },
+    "d1df0944f5b18df6023dcd024bfb4c1adabdde19": {
+        "timestamp": "2020-01-22T04:29:14",
+        "git_size": 311713,
+        "annex_size": 94534976630,
+        "total_size": 94535288343
+    },
+    "43af32c9cc227403a88853cc9721c2f33b79321d": {
+        "timestamp": "2020-01-22T04:29:06",
+        "git_size": 311713,
+        "annex_size": 94545178308,
+        "total_size": 94545490021
+    },
+    "63b6d1adb83060c3dab53167e1299248e638029c": {
+        "timestamp": "2020-01-22T04:13:48",
+        "git_size": 312681,
+        "annex_size": 94545178308,
+        "total_size": 94545490989
+    },
+    "6dc290b76566d65887fd373389e915b265956381": {
+        "timestamp": "2020-01-22T04:13:33",
+        "git_size": 312681,
+        "annex_size": 95106057775,
+        "total_size": 95106370456
+    },
+    "b034a63dc7292242509903b1168de17e5f77b9e6": {
+        "timestamp": "2020-01-22T04:13:20",
+        "git_size": 312681,
+        "annex_size": 95106545469,
+        "total_size": 95106858150
+    },
+    "15cd01359c5d07307d4a0b839cb561603202abe2": {
+        "timestamp": "2020-01-22T04:13:10",
+        "git_size": 313665,
+        "annex_size": 95106545469,
+        "total_size": 95106859134
+    },
+    "b0ef7c96f7ea86d44664a877d2e80a7102c1ab2c": {
+        "timestamp": "2020-01-22T04:13:01",
+        "git_size": 314130,
+        "annex_size": 95106545469,
+        "total_size": 95106859599
+    },
+    "31c98769d8a8122b681390f044cf5af8cbf56dcb": {
+        "timestamp": "2020-01-22T04:12:53",
+        "git_size": 314130,
+        "annex_size": 95659100371,
+        "total_size": 95659414501
+    },
+    "473848037b1ae7000982a0c55f2733f715c972cd": {
+        "timestamp": "2020-01-22T04:12:46",
+        "git_size": 314130,
+        "annex_size": 96213945674,
+        "total_size": 96214259804
+    },
+    "831c97020ccda4ee0cf45465d74b92711d91d8cb": {
+        "timestamp": "2020-01-22T04:12:42",
+        "git_size": 314130,
+        "annex_size": 96214617168,
+        "total_size": 96214931298
+    },
+    "5315f3c94bab1be0db2f468a0928a2d9af7e5042": {
+        "timestamp": "2020-01-22T04:12:38",
+        "git_size": 314130,
+        "annex_size": 96773079756,
+        "total_size": 96773393886
+    },
+    "4e8f80a431a8037d70eee78cd919ec4675e7e9f0": {
+        "timestamp": "2020-01-22T04:12:34",
+        "git_size": 315106,
+        "annex_size": 96773079756,
+        "total_size": 96773394862
+    },
+    "ea78cfcf151e91786c99a5201d525475344b001d": {
+        "timestamp": "2020-01-22T04:12:30",
+        "git_size": 315600,
+        "annex_size": 96773079756,
+        "total_size": 96773395356
+    },
+    "9ee2e02a830390303d00bfed51cf266f9b0ef102": {
+        "timestamp": "2020-01-22T04:12:27",
+        "git_size": 316095,
+        "annex_size": 96773079756,
+        "total_size": 96773395851
+    },
+    "c5d1149b23bf6d2adff259196368ae88291599b6": {
+        "timestamp": "2020-01-22T04:12:22",
+        "git_size": 316095,
+        "annex_size": 96773752758,
+        "total_size": 96774068853
+    },
+    "bff1b75cf974478f0064bfac143306e4a821e8d0": {
+        "timestamp": "2020-01-21T11:10:29",
+        "git_size": 316580,
+        "annex_size": 96773752758,
+        "total_size": 96774069338
+    },
+    "b165a96726fae3606db2be744820e9e2ca1f2e74": {
+        "timestamp": "2020-01-21T09:18:11",
+        "git_size": 313669,
+        "annex_size": 95643048329,
+        "total_size": 95643361998
+    },
+    "4229dcd7ecbbd96ca16e603700bc9357dcec0419": {
+        "timestamp": "2020-01-21T08:04:53",
+        "git_size": 307842,
+        "annex_size": 93956345149,
+        "total_size": 93956652991
+    },
+    "455d46f050a3fb95e4758839f8dc093c5715d643": {
+        "timestamp": "2020-01-21T08:04:45",
+        "git_size": 307842,
+        "annex_size": 93957016643,
+        "total_size": 93957324485
+    },
+    "ceef2b22750152214d98f87f4e986230d5eb8728": {
+        "timestamp": "2020-01-21T08:04:30",
+        "git_size": 307842,
+        "annex_size": 94252784707,
+        "total_size": 94253092549
+    },
+    "0c3865326daaf370fbf74243852ada213b9bdde8": {
+        "timestamp": "2020-01-21T08:04:16",
+        "git_size": 308818,
+        "annex_size": 94252784707,
+        "total_size": 94253093525
+    },
+    "74ec960ea514b0b67f4a20243881cf58ab5720eb": {
+        "timestamp": "2020-01-21T07:54:59",
+        "git_size": 309778,
+        "annex_size": 94252784707,
+        "total_size": 94253094485
+    },
+    "9c8f2da33ca96188c57b63fb4d416b7616e73a73": {
+        "timestamp": "2020-01-21T07:11:10",
+        "git_size": 310266,
+        "annex_size": 94252784707,
+        "total_size": 94253094973
+    },
+    "eb035d82efe292dcc00868933763d5a7e7d6b538": {
+        "timestamp": "2020-01-21T07:07:13",
+        "git_size": 310757,
+        "annex_size": 94252784707,
+        "total_size": 94253095464
+    },
+    "4342ad26b478c943070b0bd895240cd7b71965f0": {
+        "timestamp": "2020-01-21T06:39:59",
+        "git_size": 307837,
+        "annex_size": 93292102614,
+        "total_size": 93292410451
+    },
+    "fe2ce1c9d68c5fe1ddd842b25e22a45da68fca4c": {
+        "timestamp": "2020-01-21T06:22:52",
+        "git_size": 307837,
+        "annex_size": 93371794390,
+        "total_size": 93372102227
+    },
+    "de0202c21e481fc13ad18832a964b72a18517cb4": {
+        "timestamp": "2020-01-21T06:06:08",
+        "git_size": 307837,
+        "annex_size": 92889345327,
+        "total_size": 92889653164
+    },
+    "1849e097054a021c1ffec21b03e5486626c50eb8": {
+        "timestamp": "2020-01-21T06:05:45",
+        "git_size": 307346,
+        "annex_size": 92889345327,
+        "total_size": 92889652673
+    },
+    "a6917b85620faac2852f8f7e74b253b724263f08": {
+        "timestamp": "2020-01-21T06:02:28",
+        "git_size": 306858,
+        "annex_size": 92889345327,
+        "total_size": 92889652185
+    },
+    "b9235101a9b82591131d5df805be893efe91d0cb": {
+        "timestamp": "2020-01-21T06:01:30",
+        "git_size": 304906,
+        "annex_size": 92888219828,
+        "total_size": 92888524734
+    },
+    "4f117624d98d5cc0495b3fb087ecc0fd3e6da728": {
+        "timestamp": "2020-01-21T05:44:46",
+        "git_size": 304906,
+        "annex_size": 92880201946,
+        "total_size": 92880506852
+    },
+    "b9a86740bcbb3fec802471bdc0615382b75d17d5": {
+        "timestamp": "2020-01-21T05:44:23",
+        "git_size": 305399,
+        "annex_size": 92777441498,
+        "total_size": 92777746897
+    },
+    "a986051c88b6c75e4591323fffe9d62a6395a4fa": {
+        "timestamp": "2020-01-21T05:38:51",
+        "git_size": 305338,
+        "annex_size": 92777441498,
+        "total_size": 92777746836
+    },
+    "4059029272a2fc77be3f81580cc12dff98bd65e2": {
+        "timestamp": "2020-01-21T05:30:44",
+        "git_size": 305829,
+        "annex_size": 92777441498,
+        "total_size": 92777747327
+    },
+    "9c3ce8ba9feb187bb8d64f7e785a7886cb4f576a": {
+        "timestamp": "2020-01-21T05:10:32",
+        "git_size": 305829,
+        "annex_size": 93257102092,
+        "total_size": 93257407921
+    },
+    "3090c99e8ec3a09bce38de37c16545ce3422a90f": {
+        "timestamp": "2020-01-21T05:10:23",
+        "git_size": 306317,
+        "annex_size": 93257102092,
+        "total_size": 93257408409
+    },
+    "ea1583377514615b08b7465d5bf4e030cb484373": {
+        "timestamp": "2020-01-21T05:10:19",
+        "git_size": 306317,
+        "annex_size": 93739956811,
+        "total_size": 93740263128
+    },
+    "e81edf7bb94a1470ef02ada1c2726ec2c0cc7c1f": {
+        "timestamp": "2020-01-21T05:10:12",
+        "git_size": 306317,
+        "annex_size": 93740641717,
+        "total_size": 93740948034
+    },
+    "4b7fc2d2b57c6a8c2a8d58da13f491ac775f288d": {
+        "timestamp": "2020-01-21T05:05:28",
+        "git_size": 306317,
+        "annex_size": 93748659599,
+        "total_size": 93748965916
+    },
+    "e27bfd4776e87055dbb3b8070093b6c3006a65b7": {
+        "timestamp": "2020-01-21T05:05:16",
+        "git_size": 306317,
+        "annex_size": 93749094587,
+        "total_size": 93749400904
+    },
+    "d57771fafd55e684eaed45c96f204f6225bae971": {
+        "timestamp": "2020-01-21T05:05:10",
+        "git_size": 306317,
+        "annex_size": 94228994269,
+        "total_size": 94229300586
+    },
+    "bad8acc0c29f79980304a2d9f500b1bfcf84077c": {
+        "timestamp": "2020-01-21T05:04:59",
+        "git_size": 306317,
+        "annex_size": 94229434862,
+        "total_size": 94229741179
+    },
+    "0a79cf6dc19a41131fbceab417c3b1edb21ccb1d": {
+        "timestamp": "2020-01-21T05:04:55",
+        "git_size": 306317,
+        "annex_size": 94711883925,
+        "total_size": 94712190242
+    },
+    "677e3147256564548e4bfae6ccf300372cf62399": {
+        "timestamp": "2020-01-21T05:04:45",
+        "git_size": 306317,
+        "annex_size": 94712570754,
+        "total_size": 94712877071
+    },
+    "d6612dc33514520a8ff33205d3db46a244cff86b": {
+        "timestamp": "2020-01-21T05:04:39",
+        "git_size": 307301,
+        "annex_size": 94712570754,
+        "total_size": 94712878055
+    },
+    "89397de905aa5d106cf72242ad1e1dea09bddbf8": {
+        "timestamp": "2020-01-21T05:04:34",
+        "git_size": 308277,
+        "annex_size": 94712570754,
+        "total_size": 94712879031
+    },
+    "2254364b96cda4a72578dc04578c9725db99c267": {
+        "timestamp": "2020-01-21T05:04:29",
+        "git_size": 308768,
+        "annex_size": 94712570754,
+        "total_size": 94712879522
+    },
+    "493e29c25dd61cf8cb1da20d18407fb61da3f780": {
+        "timestamp": "2020-01-21T05:04:24",
+        "git_size": 309728,
+        "annex_size": 94712570754,
+        "total_size": 94712880482
+    },
+    "bdc17d4f69efb9988400fd08ac10e228702555c9": {
+        "timestamp": "2020-01-21T04:39:42",
+        "git_size": 310696,
+        "annex_size": 94712570754,
+        "total_size": 94712881450
+    },
+    "63fa6aa57b98a0612e918acaee98c26bd520c5bc": {
+        "timestamp": "2020-01-21T04:37:17",
+        "git_size": 310537,
+        "annex_size": 94712570754,
+        "total_size": 94712881291
+    },
+    "1863298f146e6d307e9e7359858afd606806ba10": {
+        "timestamp": "2020-01-18T12:13:13",
+        "git_size": 479,
+        "annex_size": 0,
+        "total_size": 479
+    },
+    "0fd62d66aa734d863bfb61bc94d8c398c724fba5": {
+        "timestamp": "2020-01-18T12:13:05",
+        "git_size": 250,
+        "annex_size": 0,
+        "total_size": 250
+    },
+    "47f0545c29157f2f69e4895712d0241cad0dd797": {
+        "timestamp": "2020-01-18T12:12:55",
+        "git_size": 21,
+        "annex_size": 0,
+        "total_size": 21
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "92568f9fa578bcb3b9b60184eebfc19cccfaceb8": {
+        "timestamp": "2021-02-01T18:17:42",
+        "git_size": 2716,
+        "annex_size": 21030709306,
+        "total_size": 21030712022
+    },
+    "bb8bb0f40f47fbe0473cf3776af3682d3a36e3f9": {
+        "timestamp": "2020-01-28T22:03:13",
+        "git_size": 2708,
+        "annex_size": 21030690261,
+        "total_size": 21030692969
+    },
+    "72f5ea46966cb302fb9e35760ebac33a0603bd15": {
+        "timestamp": "2018-06-08T12:38:37",
+        "git_size": 2700,
+        "annex_size": 21030651421,
+        "total_size": 21030654121
+    },
+    "35f54cc17ffabebb8e60a4247cdf353a7a40139f": {
+        "timestamp": "2018-02-12T23:07:19",
+        "git_size": 1120,
+        "annex_size": 21030651421,
+        "total_size": 21030652541
+    },
+    "21f21cfe15f8dd23052363d8fc87836501540e04": {
+        "timestamp": "2017-12-07T22:54:11",
+        "git_size": 1059,
+        "annex_size": 21030651421,
+        "total_size": 21030652480
+    },
+    "5b948af34c9036eb0199e8977177424a83f7ac86": {
+        "timestamp": "2017-12-07T10:31:59",
+        "git_size": 622,
+        "annex_size": 21030651421,
+        "total_size": 21030652043
+    },
+    "c2aab857e80bbfe4657b06d4700865d009923f8e": {
+        "timestamp": "2017-12-07T10:31:56",
+        "git_size": 622,
+        "annex_size": 21030650675,
+        "total_size": 21030651297
+    },
+    "25822d8b55ae21df15d5048fd119237bef9884fb": {
+        "timestamp": "2017-12-07T10:31:51",
+        "git_size": 633,
+        "annex_size": 21030651421,
+        "total_size": 21030652054
+    },
+    "bd572dc0f184e5d1f603ff2338a7804fd9d2108d": {
+        "timestamp": "2017-12-07T09:58:48",
+        "git_size": 401,
+        "annex_size": 0,
+        "total_size": 401
+    },
+    "46b1cf4a40dec66257747f27179f86a399d35c8a": {
+        "timestamp": "2017-12-07T09:58:47",
+        "git_size": 254,
+        "annex_size": 0,
+        "total_size": 254
+    },
+    "da4f35ecca5534e74b23c81611c3b2cbbf540428": {
+        "timestamp": "2017-12-07T09:58:47",
+        "git_size": 21,
+        "annex_size": 0,
+        "total_size": 21
+    }
+}

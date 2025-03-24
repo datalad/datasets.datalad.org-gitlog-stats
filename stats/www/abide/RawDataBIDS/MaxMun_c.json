@@ -1,0 +1,68 @@
+{
+    "3b5883b0be07d9e9490be00ac31f841e780289ea": {
+        "timestamp": "2021-02-01T18:17:29",
+        "git_size": 2735,
+        "annex_size": 533580066,
+        "total_size": 533582801
+    },
+    "636a8592ff24f827517f887302c9704e9d474f23": {
+        "timestamp": "2020-01-28T22:03:09",
+        "git_size": 2727,
+        "annex_size": 533576588,
+        "total_size": 533579315
+    },
+    "4e600efd79ea7372233fe6b95854938f950fb2f5": {
+        "timestamp": "2018-06-08T12:40:03",
+        "git_size": 2719,
+        "annex_size": 533573526,
+        "total_size": 533576245
+    },
+    "e008a6430c92c53eeb46d20c1c8edf382deb2a5a": {
+        "timestamp": "2018-02-12T23:07:20",
+        "git_size": 1135,
+        "annex_size": 533573526,
+        "total_size": 533574661
+    },
+    "e37938d0de3426ad4f6a9a3afba7ef096e91fce4": {
+        "timestamp": "2017-12-07T22:54:07",
+        "git_size": 1074,
+        "annex_size": 533573526,
+        "total_size": 533574600
+    },
+    "f8c396b86707b57ea57b0d112cdf7680e2df8d3b": {
+        "timestamp": "2017-12-07T10:09:20",
+        "git_size": 632,
+        "annex_size": 533573526,
+        "total_size": 533574158
+    },
+    "c8906c5e1b2dfea117925572e292b96063100d74": {
+        "timestamp": "2017-12-07T10:09:15",
+        "git_size": 632,
+        "annex_size": 533572630,
+        "total_size": 533573262
+    },
+    "d722efda8b61f97df31d47917fc899fad2f66d4f": {
+        "timestamp": "2017-12-07T10:09:07",
+        "git_size": 643,
+        "annex_size": 533573526,
+        "total_size": 533574169
+    },
+    "1c95b1846e6fdfd2c81342be52c4882603983653": {
+        "timestamp": "2017-12-07T09:58:44",
+        "git_size": 406,
+        "annex_size": 0,
+        "total_size": 406
+    },
+    "5c45babed93e86308be32db98c1e096d5f88a8f1": {
+        "timestamp": "2017-12-07T09:58:43",
+        "git_size": 254,
+        "annex_size": 0,
+        "total_size": 254
+    },
+    "86697e33ac8fb1bdebc045ccdd7b8dc67e2d25d1": {
+        "timestamp": "2017-12-07T09:58:42",
+        "git_size": 21,
+        "annex_size": 0,
+        "total_size": 21
+    }
+}
