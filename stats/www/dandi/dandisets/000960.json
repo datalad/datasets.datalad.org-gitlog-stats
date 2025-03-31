@@ -22,5 +22,17 @@
         "git_size": 153,
         "annex_size": 0,
         "total_size": 153
+    },
+    "0fd764cef2f2fd70509b781ea3f275842a7ff30a": {
+        "timestamp": "2025-02-21T17:03:07",
+        "git_size": 1379,
+        "annex_size": 0,
+        "total_size": 1379
+    },
+    "6a692b1a0aa05c3d1e931c31256a6753746be62c": {
+        "timestamp": "2025-02-04T11:37:26",
+        "git_size": 4901,
+        "annex_size": 667393112,
+        "total_size": 667398013
     }
 }
