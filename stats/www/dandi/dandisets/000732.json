@@ -58,5 +58,23 @@
         "git_size": 153,
         "annex_size": 0,
         "total_size": 153
+    },
+    "9ce9466d0d5c5612d696897e4212a6a35b7883de": {
+        "timestamp": "2025-01-22T15:02:31",
+        "git_size": 109789,
+        "annex_size": 112811769196,
+        "total_size": 112811878985
+    },
+    "8a1e11d6dd89518ccf981031796cf9c130f17830": {
+        "timestamp": "2025-01-17T19:02:32",
+        "git_size": 109703,
+        "annex_size": 112811769196,
+        "total_size": 112811878899
+    },
+    "f30d73a67aa6318155210477a7176cbb6af2a61f": {
+        "timestamp": "2025-01-10T17:02:35",
+        "git_size": 109645,
+        "annex_size": 112811769196,
+        "total_size": 112811878841
     }
 }
